@@ -1,29 +1,29 @@
 Format: 1.0
-Source: linux-5.9.1-amd64-desktop
-Binary: linux-image-5.9.1-amd64-desktop linux-headers-5.9.1-amd64-desktop linux-libc-dev linux-image-5.9.1-amd64-desktop-dbg
+Source: linux-5.9.2-amd64-desktop
+Binary: linux-image-5.9.2-amd64-desktop linux-libc-dev linux-headers-5.9.2-amd64-desktop linux-image-5.9.2-amd64-desktop-dbg
 Architecture: amd64 source
-Version: 5.9.1.deepines
+Version: 5.9.2.deepines
 Checksums-Md5:
- 7ac7500966965a986b606d99e1111a3e 1308 linux-5.9.1-amd64-desktop_5.9.1.deepines.dsc
- b5d66703edc9c8e02a89b3c5f2a2b3c8 7691092 linux-headers-5.9.1-amd64-desktop_5.9.1.deepines_amd64.deb
- 6dd6fa5e6cf97b669baee520c2b45114 971731052 linux-image-5.9.1-amd64-desktop-dbg_5.9.1.deepines_amd64.deb
- ce993673626fbebd42e682c7b98d92f6 62818460 linux-image-5.9.1-amd64-desktop_5.9.1.deepines_amd64.deb
- 7363201f002633207cd79cd68b73c58a 1119172 linux-libc-dev_5.9.1.deepines_amd64.deb
+ 9f0ada1d86da1ba471fe1c366ca5b677 1308 linux-5.9.2-amd64-desktop_5.9.2.deepines.dsc
+ 5f5b16443ab8485fdf2235d0105c77ce 7690368 linux-headers-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ c3481b609e77fd516c1f88b811dea657 971582452 linux-image-5.9.2-amd64-desktop-dbg_5.9.2.deepines_amd64.deb
+ a43f71f2901f29108fb031da6cb40632 62833828 linux-image-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 6e65acb58288ca15fbcdebba8e2eac44 1119100 linux-libc-dev_5.9.2.deepines_amd64.deb
 Checksums-Sha1:
- 315bcc0f42e0ded8d68b6e84a7acb51e9c86070b 1308 linux-5.9.1-amd64-desktop_5.9.1.deepines.dsc
- 4b982694d3859522d20b40ff256bfdcfbd693ac5 7691092 linux-headers-5.9.1-amd64-desktop_5.9.1.deepines_amd64.deb
- b722e51c215195e2cf6e1cc88160310f31df8b88 971731052 linux-image-5.9.1-amd64-desktop-dbg_5.9.1.deepines_amd64.deb
- 7882c70865736dd2d6c85fcba4ae5d396a0d7b6e 62818460 linux-image-5.9.1-amd64-desktop_5.9.1.deepines_amd64.deb
- b372db050950a2072a7714bf05a496bc5bd88238 1119172 linux-libc-dev_5.9.1.deepines_amd64.deb
+ 51983706ebfa22f54f336062349a6e32bbd83641 1308 linux-5.9.2-amd64-desktop_5.9.2.deepines.dsc
+ 0a53fe90cf180fb6aa6ffae389e526a53e181f28 7690368 linux-headers-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 8c07806060eb9cc48403e337b36307978b26ba34 971582452 linux-image-5.9.2-amd64-desktop-dbg_5.9.2.deepines_amd64.deb
+ e9234d7fd85af3f5c3194a25d5fd4b9c5db88438 62833828 linux-image-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 1b6fea30508053b81286bf05aab21b9c64831124 1119100 linux-libc-dev_5.9.2.deepines_amd64.deb
 Checksums-Sha256:
- cc539238402bd4b5829cd83f8c8b75b9f9f65d1cf3598f8fc622f890856ad263 1308 linux-5.9.1-amd64-desktop_5.9.1.deepines.dsc
- 7dfc638d31bb10939ed2d54f3ec3b18a9594adc025360da9c7618c9cbfe96898 7691092 linux-headers-5.9.1-amd64-desktop_5.9.1.deepines_amd64.deb
- 9be59e2be955367aae7dfd045303dd787f26636ca0c1031dab28bd4e643f7577 971731052 linux-image-5.9.1-amd64-desktop-dbg_5.9.1.deepines_amd64.deb
- f5f25b1492c1756e98355ec897504a1fcfb26f2f28afc2cb3293f12fd939e43e 62818460 linux-image-5.9.1-amd64-desktop_5.9.1.deepines_amd64.deb
- 69dd0e746a08ee683ae532a385649da2dbe59fc17454cffb4566bd2b6ec23e1b 1119172 linux-libc-dev_5.9.1.deepines_amd64.deb
+ 1fc37777a568036fb7048a74ce0c6158a4d834a7f7c430b6d48fc74a1f564608 1308 linux-5.9.2-amd64-desktop_5.9.2.deepines.dsc
+ 1b257e61a2d147568adb5df6b118a6546ae611f38bf4a21d2ab85d521b5273f4 7690368 linux-headers-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 2ab37f12aa6cde084e1ef93b61ef05d680288266d41f9c2c08dc57d28fc0e72d 971582452 linux-image-5.9.2-amd64-desktop-dbg_5.9.2.deepines_amd64.deb
+ 7d6a80882d09c476fd255a0e851d54073f6f1cee40a18ccab4b57dfa614abd83 62833828 linux-image-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ c520e6f3964aed7c371bf7ac294771930676153de288201c772d4b6d8625a6a5 1119100 linux-libc-dev_5.9.2.deepines_amd64.deb
 Build-Origin: Deepin
 Build-Architecture: amd64
-Build-Date: Sun, 18 Oct 2020 09:28:39 -0500
+Build-Date: Thu, 29 Oct 2020 13:20:50 -0500
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -126,7 +126,7 @@ Installed-Build-Depends:
  libubsan1 (= 8.3.0.3-3+rebuild),
  libudev1 (= 241.7.1+c2-2+dde),
  libuuid1 (= 2.33.1-0.1),
- linux-libc-dev (= 5.4.50-amd64-desktop-74),
+ linux-libc-dev (= 5.9.1.deepines),
  login (= 1:4.5.1-1+dde),
  lsb-base (= 10.2019051400),
  m4 (= 1.4.18-2),
@@ -158,6 +158,6 @@ Environment:
  LD="ld"
  LEX="flex"
  MAKE="make"
- MAKEFLAGS="rR -j5 --jobserver-auth=3,4 --no-print-directory -- KDEB_PKGVERSION=5.9.1.deepines"
- SOURCE_DATE_EPOCH="1603024637"
+ MAKEFLAGS="rR -j5 --jobserver-auth=3,4 --no-print-directory -- KDEB_PKGVERSION=5.9.2.deepines"
+ SOURCE_DATE_EPOCH="1603989513"
  YACC="bison"
