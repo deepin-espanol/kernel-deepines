@@ -1,0 +1,46 @@
+Format: 1.8
+Date: Thu, 29 Oct 2020 11:38:33 -0500
+Source: linux-5.9.2-amd64-desktop
+Binary: linux-headers-5.9.2-amd64-desktop linux-image-5.9.2-amd64-desktop linux-image-5.9.2-amd64-desktop-dbg linux-libc-dev
+Architecture: source amd64
+Version: 5.9.2.deepines
+Distribution: unstable
+Urgency: low
+Maintainer: root <root@NightFury>
+Changed-By: root <root@NightFury>
+Description:
+ linux-headers-5.9.2-amd64-desktop - Linux kernel headers for 5.9.2-amd64-desktop on amd64
+ linux-image-5.9.2-amd64-desktop - Linux kernel, version 5.9.2-amd64-desktop
+ linux-image-5.9.2-amd64-desktop-dbg - Linux kernel debugging symbols for 5.9.2-amd64-desktop
+ linux-libc-dev - Linux support headers for userspace development
+Changes:
+ linux-5.9.2-amd64-desktop (5.9.2.deepines) unstable; urgency=low
+ .
+   * Custom built Linux kernel.
+Checksums-Sha1:
+ 51983706ebfa22f54f336062349a6e32bbd83641 1308 linux-5.9.2-amd64-desktop_5.9.2.deepines.dsc
+ 6c799bf7a55a87b9571dc5a74ef9f76935688051 188201034 linux-5.9.2-amd64-desktop_5.9.2.deepines.orig.tar.gz
+ 81d0166e74d36297934da162b2ea3ea22a659e22 195864 linux-5.9.2-amd64-desktop_5.9.2.deepines.diff.gz
+ 29336930155050a8d46563cf7eef2f9005a20c00 5795 linux-5.9.2-amd64-desktop_5.9.2.deepines_amd64.buildinfo
+ 0a53fe90cf180fb6aa6ffae389e526a53e181f28 7690368 linux-headers-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 8c07806060eb9cc48403e337b36307978b26ba34 971582452 linux-image-5.9.2-amd64-desktop-dbg_5.9.2.deepines_amd64.deb
+ e9234d7fd85af3f5c3194a25d5fd4b9c5db88438 62833828 linux-image-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 1b6fea30508053b81286bf05aab21b9c64831124 1119100 linux-libc-dev_5.9.2.deepines_amd64.deb
+Checksums-Sha256:
+ 1fc37777a568036fb7048a74ce0c6158a4d834a7f7c430b6d48fc74a1f564608 1308 linux-5.9.2-amd64-desktop_5.9.2.deepines.dsc
+ 980e184e86cdb6bafd1784ab1be4418d4afbe9e0b4dcce9bcd8358df5415b746 188201034 linux-5.9.2-amd64-desktop_5.9.2.deepines.orig.tar.gz
+ c7c46fee610e617d02399a50271f9e4ba90380d15f31a061bfd75b92e1d27031 195864 linux-5.9.2-amd64-desktop_5.9.2.deepines.diff.gz
+ 1050ccd8ed437c225d0035bd9b2642c78091ff9c744af2b488f86fde34c8d2b0 5795 linux-5.9.2-amd64-desktop_5.9.2.deepines_amd64.buildinfo
+ 1b257e61a2d147568adb5df6b118a6546ae611f38bf4a21d2ab85d521b5273f4 7690368 linux-headers-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 2ab37f12aa6cde084e1ef93b61ef05d680288266d41f9c2c08dc57d28fc0e72d 971582452 linux-image-5.9.2-amd64-desktop-dbg_5.9.2.deepines_amd64.deb
+ 7d6a80882d09c476fd255a0e851d54073f6f1cee40a18ccab4b57dfa614abd83 62833828 linux-image-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ c520e6f3964aed7c371bf7ac294771930676153de288201c772d4b6d8625a6a5 1119100 linux-libc-dev_5.9.2.deepines_amd64.deb
+Files:
+ 9f0ada1d86da1ba471fe1c366ca5b677 1308 kernel optional linux-5.9.2-amd64-desktop_5.9.2.deepines.dsc
+ 0a815f77f9b3238ac63a9ff70504fb3c 188201034 kernel optional linux-5.9.2-amd64-desktop_5.9.2.deepines.orig.tar.gz
+ af3d1e463ea902d05adb2f4abfb11542 195864 kernel optional linux-5.9.2-amd64-desktop_5.9.2.deepines.diff.gz
+ 93ec15e907c611276a621b4886766dd7 5795 kernel optional linux-5.9.2-amd64-desktop_5.9.2.deepines_amd64.buildinfo
+ 5f5b16443ab8485fdf2235d0105c77ce 7690368 kernel optional linux-headers-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ c3481b609e77fd516c1f88b811dea657 971582452 debug optional linux-image-5.9.2-amd64-desktop-dbg_5.9.2.deepines_amd64.deb
+ a43f71f2901f29108fb031da6cb40632 62833828 kernel optional linux-image-5.9.2-amd64-desktop_5.9.2.deepines_amd64.deb
+ 6e65acb58288ca15fbcdebba8e2eac44 1119100 devel optional linux-libc-dev_5.9.2.deepines_amd64.deb
